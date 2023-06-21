@@ -39,4 +39,5 @@ You can run tests by running the command line ```mvn test``` or just `./mvnw tes
  ```
  - To get runners of a specific course you can use this
  ```shell
- curl -X GET http://localhost:8080/api/v1/courses/{courseNumber}/runners -i ```
+ curl -X GET http://localhost:8080/api/v1/courses/{courseNumber}/runners -i
+ ```
